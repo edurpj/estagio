@@ -5,4 +5,4 @@ Teste para estágio:
 - JavaScript
 
 
-![estágio2](https://user-images.githubusercontent.com/69088210/123491688-b5438a80-d5ed-11eb-821d-47ef98752db8.png)
+![image](https://user-images.githubusercontent.com/69088210/192167162-8d84c608-ecd7-4949-afc9-bb0be08a006e.png)
